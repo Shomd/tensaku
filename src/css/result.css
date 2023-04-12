@@ -1,0 +1,26 @@
+body {
+    font-family: 'Helvetica Neue', sans-serif;
+    background-color: #f5f5f5;
+}
+
+.mainContainer{
+    max-width: 800px;
+    margin: 20px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
+
+.photo {
+    float: left;
+}
+img{
+    max-width: 260px;
+    max-height: 260px;
+}
+
+.storeDetail {
+    padding-left: 16px;
+
+}
